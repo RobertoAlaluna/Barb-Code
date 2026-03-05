@@ -1,3 +1,5 @@
+Projeto desenvolvido durante o curso de Back-End do SENAI para fins de aprendizado sobre rotas e métodos HTTP
+
 💈 Barb&Code
 
 Um sistema de gerenciamento simples e eficiente para barbearias. O Barb&Code ajuda a organizar agendamentos, controlar clientes e gerenciar o financeiro do dia a dia.
